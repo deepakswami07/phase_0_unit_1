@@ -12,7 +12,7 @@
   How to meet all the requirements and yet make the design look good.  How exactly does div work?  Most of the resources that were provided were fairly good, but I had to look for other resources to explain positioning.
 
 * What concepts are you having trouble with, or did you just figure something out? If so, what?  
-  I did have troulbe with div is the beginning, sometimes it would get push down to the next line.  Reading about floats did help out.  I more or less get it.  I will defintely do some reading and will need to do more practice sites, till I am more comfortable with the concept of positioning.
+  I had trouble with div is the beginning, sometimes it would get push down to the next line.  Reading about floats did help out.  I more or less get it.  I will defintely do some reading and will need to do more practice exercises, and continue to work on it till I am comfortable with the concept of positioning.
 
 * Did you learn any new skills or tricks?
   Yes, I did learn to scroll text that was overflowing.

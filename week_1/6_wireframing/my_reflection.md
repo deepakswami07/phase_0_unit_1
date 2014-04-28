@@ -16,8 +16,7 @@
   Good design is well thought out and is simple. Whether it is a poster or a webpage, it has to easily convey the message, if it is a product, it should intuitively help the users put the product to work.
 
 * Do you like design and user experience? Was it fun working on your site, the plan, and/or the wireframe? (If you hated it, that's OK too)
-  Yes, I love to design.  As a motion designer, I can vouch how important it is to plan and storyboard 
-  your ideas before you actually do it.  I have personally found that, the more time you spend in the planning stages, the lesser the problems you will have, once your ideas/plans goes into production.
+  Yes, I love to design.  As a motion designer, I can vouch how important it is to plan and storyboard your ideas before you actually do it.  I have personally found that the more time you spend in the planning stages, the lesser the problems you will have, once your ideas/plans goes into production.
 
 * What questions did you ask during this challenge? What resources did you find to help you answer them? 
   I was trying to figue out if it was better to illustrate it manually or use a drawing application.  I did go over the fundamental of design chapter in one of my books.
