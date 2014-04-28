@@ -1,0 +1,80 @@
+body{ background-color:#658e28;}
+
+#mail_button:link {text-decoration: none;
+        color: white;}
+
+#mail_button:hover {color: red;}
+
+#mail_button:visited {color: white;}
+
+#city:link {text-decoration: none;
+            color: #517630;}
+#city:hover {color: black;}
+#city:visited {color: 575837;}
+
+#city{background-color: #ecf296;
+      border-radius: 5px;}
+
+
+h1 {font-family: Helvetica, sans-serif;
+	font-weight: bold;
+	text-align: center;
+	text-indent: 20px;
+	color: #9fda2e;
+}
+
+h2 {font-family: Helvetica, sans-serif;
+	font-weight: bold;	
+	color: #9fda2e;    
+}
+
+h3 {font-family: Helvetica, sans-serif;
+	font-weight: bold;
+	color: #9fda2e;	    
+}
+
+h4 {font-family: Helvetica, sans-serif;
+	font-weight: bold;
+	color: #9fda2e;	    
+}
+
+h5 {font-family: Helvetica, sans-serif;
+	font-weight: bold;
+	color: #9fda2e;	    
+}
+
+h6 {font-family: Helvetica, sans-serif;
+		font-weight: bold;
+		color: #9fda2e;
+}
+
+#my { background-color: teal;}
+p {font-family: Courier, sans-serif;
+	font-size: 16px;
+	text-indent: 20px;
+}
+
+.paragraph { height: 100px;
+	width: 200px;
+	color: blue;
+}
+
+#benhur{ height: 130px;
+	width: 400;
+	border: 4px;
+	position: right;
+}
+
+li {font-family: Courier;
+font-size: 18px;
+font-weight: bold;
+color: #ecf296;
+}
+
+#footer {margin-left: 500px;
+}
+
+img {float: right;
+	 margin-right: 300px;
+	 
+     }
