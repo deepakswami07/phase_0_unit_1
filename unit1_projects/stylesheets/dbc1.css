@@ -1,11 +1,5 @@
 body{ background-color:#658e28;}
 
-#mail_button:link {text-decoration: none;
-        color: white;}
-
-#mail_button:hover {color: red;}
-
-#mail_button:visited {color: white;}
 
 #city:link {text-decoration: none;
             color: #517630;}
@@ -48,11 +42,6 @@ h6 {font-family: Helvetica, sans-serif;
 		color: #9fda2e;
 }
 
-#my { background-color: teal;}
-p {font-family: Courier, sans-serif;
-	font-size: 16px;
-	text-indent: 20px;
-}
 
 .paragraph { height: 100px;
 	width: 200px;
