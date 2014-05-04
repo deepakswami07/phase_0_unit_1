@@ -1,0 +1,19 @@
+/* index styles */
+
+nav {margin: 1em 5em;
+	background: red;
+	border-radius: 10px;
+	text-align: center;
+	display: inline-block;
+	position: fixed;
+}
+
+a {width: 100%;
+	margin: 0.5em;
+	font-family: 'Nunito'
+   }
+
+
+a:link {text-decoration: none;
+        color: black;}
+a:hover{color: steelblue;}

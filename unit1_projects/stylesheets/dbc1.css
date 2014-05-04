@@ -1,13 +1,13 @@
 body{ background-color:#658e28;}
 
-
 #city:link {text-decoration: none;
-            color: #517630;}
-#city:hover {color: black;}
-#city:visited {color: 575837;}
+            color: steelblue;}
+#city:hover {color: red;}
+#city:visited {color: #658e28;}
 
 #city{background-color: #ecf296;
-      border-radius: 5px;}
+      border-radius: 10px;
+      padding: 0px 5px;}
 
 
 h1 {font-family: Helvetica, sans-serif;
@@ -42,7 +42,6 @@ h6 {font-family: Helvetica, sans-serif;
 		color: #9fda2e;
 }
 
-
 .paragraph { height: 100px;
 	width: 200px;
 	color: blue;
@@ -65,5 +64,4 @@ color: #ecf296;
 
 img {float: right;
 	 margin-right: 300px;
-	 
      }
