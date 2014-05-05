@@ -1,0 +1,251 @@
+body{ width: 100%px;
+	}
+
+#wrapper {width: 85%;
+	      margin: auto;
+ }
+
+#about {width: 75%;
+padding: 2% 1%;
+margin-bottom: -2%;
+}
+
+p {font-family: Helvetica;
+	font-size: .65em;
+	text-align: left;
+	margin-top: -5%
+
+}
+
+nav {float: left;
+	 width: 60%;
+     margin-left:10%;
+     margin-bottom: 3%;
+     font-family: Helvetica;
+     font-size: .6em;
+     text-align: center;
+ }
+
+#benhur{ 
+	width: 50%;
+	float: left;
+	margin-left: 7%;
+	margin-top:-2%;
+}
+
+#once{ 
+	width: 35%;
+	float: left;
+	margin-left: 7%;
+	margin-top:-2%;
+}
+
+ol {float: right;
+	margin-top:-2%;
+	margin-right: 2%
+	
+	}
+
+li {font-family: Courier;
+font-size: .5em;
+color: black;
+}
+
+.descript {font-family: Helvetica;
+	       font-size: .5em;
+	       margin-left:7%;
+}
+
+#hollywood {float:left;
+	   width: 65%;
+	   border: dotted black 10px;
+	   border-radius: 5%;
+	   margin-bottom: 5%;
+	   margin-left: 7%;
+}
+
+#bollywood  {float:left;
+	   width: 65%;
+	   border: dotted black 10px;
+	   border-radius: 5%;
+	   margin-bottom: 5%;
+	   margin-left: 7%;
+}
+
+#noir  {float:left;
+	   width: 65%;
+	   border: dotted black 10px;
+	   border-radius: 5%;
+	   margin-bottom: 5%;
+	   margin-left: 7%;
+}
+
+#western  {float:left;
+	   width: 65%;
+	   border: dotted black 10px;
+	   border-radius: 5%;
+	   margin-bottom: 5%;
+	   margin-left: 7%;
+}
+
+#horror  {float:left;
+	   width: 65%;
+	   border: dotted black 10px;
+	   border-radius: 5%;
+	   margin-bottom: 5%;
+	   margin-left: 7%;
+}
+
+h2 {font-family: Helvetica, sans-serif;
+	font-weight: bold;
+	color: #9fda2e;
+}
+
+h2 {font-family: Helvetica, sans-serif;
+	font-weight: bold;	
+	color: #9fda2e;    
+	margin-left: 1%;
+}
+
+h3 {font-family: Helvetica, sans-serif;
+	font-weight: bold;
+	color: #9fda2e;
+	margin-left: 1%;	    
+}
+
+h4 {font-family: Helvetica, sans-serif;
+	font-weight: bold;
+	color: #9fda2e;
+	margin-left: 1%;    
+}
+
+h5 {font-family: Helvetica, sans-serif;
+	font-weight: bold;
+	color: #9fda2e;
+	margin-left: 1%;	    
+}
+
+h6 {font-family: Helvetica, sans-serif;
+		font-weight: bold;
+		color: #9fda2e;
+		margin-left: 1%;
+}
+
+
+#city:link {text-decoration: none;
+            color: steelblue;}
+#city:hover {color: red;}
+#city:visited {color: #658e28;}
+
+#city{background-color: #ecf296;
+      border-radius: 10px;
+      padding: 0px 5px;}
+
+#footer {margin-left: 500px;
+}
+
+
+/* Media Queries 481px*/     
+
+@media only screen and (max-width: 481px){
+
+body {background:slategrey;}
+	#ol {float:left;}
+
+	#benhur {float: left;
+		margin-left: 25%;
+		margin-top: -12%;}
+
+	#once {float: left;
+		margin-left: 25%;
+	    margin-top: -12%;}
+
+	nav {float:left;
+		left-margin:5%;}
+	#about {display: none;}
+
+	h2 {text-align: left;}
+	h3 {text-align: left;}
+	h4 {text-align: left;}
+	h5 {text-align: left;}
+	h6 {text-align: left;}
+
+	#descript {text-align: left;}
+
+}
+
+/* Media Queries 769px*/  
+@media only screen and (min-width : 769px){
+
+    #wrapper {width:100%;
+    	float: left;
+    	margin-left: 10%;}
+
+	#ol {float:right;}
+
+	#benhur {float: left;
+		margin-left: 5%;
+		margin-top: -2%;}
+
+	#once {loat: left;
+		margin-left: 5%;
+		margin-top: -2%;}
+
+	nav {float:left;
+		left-margin:5%;}
+
+	#about {display: inline-block;
+	        margin-left:5%; }
+
+	h2 {text-align: left;}
+	h3 {text-align: left;}
+	h4 {text-align: left;}
+	h5 {text-align: left;}
+	h6 {text-align: left;}
+
+	#descript {text-align: left;}
+}
+
+/* Media Queries 1024px*/  
+
+@media only screen and (min-width : 1024px){
+
+
+   #wrapper {width:100%;
+    	float: left;
+    	margin-left: 10%;}
+
+	#ol {float:right;}
+
+	#benhur {float: left;
+		margin-left: 5%;
+		margin-top: -2%;}
+
+	#once {loat: left;
+		margin-left: 5%;
+		margin-top: -2%;}
+
+	nav {float:left;
+		left-margin:5%;}
+
+	#about {display: inline-block;
+		margin-left: 5%;}
+
+	h2 {text-align: left;}
+	h3 {text-align: left;}
+	h4 {text-align: left;}
+	h5 {text-align: left;}
+	h6 {text-align: left;}
+
+	#descript {text-align: left;}
+}
+
+
+/* Media Queries 481px*/  
+
+@media only screen and (min-width: 1024px){
+	#wrapper {width:75%;}
+}
+
+
+
