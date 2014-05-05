@@ -17,9 +17,10 @@ Create a new HTML file and use the date to name it `week2_technical.html`.
 
 ## Topic
 Research one of the following topics and write a blog post that teaches others how and when to use each thing. There is no length requirement, but it should show off the knowledge you gained this week. You should show examples of code and screen shots to help teach others!
+
 What are the differences between relative, absolute, and fixed positioning? 
 
-Positioning in CSS is a powerful tool.  The positioning property works within the box model. Using the positioning property you can place elements in a html document. There are four positioning properties: static, relative, absolute and fixed.  This blog covers the different ways each one of the properties can be used.
+Positioning in CSS is a powerful tool.  The positioning property works within the box model. Using the positioning property you can place elements in a html document. There are four positioning properties: static, relative, absolute and fixed.  This blog covers the different ways each one of the properties can be used to structure your html page.
 
 Static:  By default  all html elements are positioned static, which means it will follow the normal flow of elements placed on a page.  When an element is positioned static, it is not affected by the position of other elements and it will not be affected by the right, left, top, bottom values assigned to it.  If you add three boxes, one after the other in your html document and give it with a fixed position in css, they will stack one on top of the other in the order they were placed in the html document.
 
