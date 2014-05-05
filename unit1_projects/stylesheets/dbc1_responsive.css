@@ -21,7 +21,7 @@ nav {float: left;
 	 width: 60%;
      margin-left:10%;
      margin-bottom: 3%;
-     font-family: Helevetica;
+     font-family: Helvetica;
      font-size: .6em;
      text-align: center;
  }
@@ -176,7 +176,6 @@ body {background:slategrey;}
 
 /* Media Queries 769px*/  
 @media only screen and (min-width : 769px){
-	body {background:red;}
 
     #wrapper {width:100%;
     	float: left;
@@ -211,7 +210,6 @@ body {background:slategrey;}
 
 @media only screen and (min-width : 1024px){
 
-   body {background:blue;}
 
    #wrapper {width:100%;
     	float: left;
@@ -247,7 +245,6 @@ body {background:slategrey;}
 
 @media only screen and (min-width: 1024px){
 	#wrapper {width:75%;}
-	body {background-color: white;}
 }
 
 

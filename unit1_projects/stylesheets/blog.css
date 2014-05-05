@@ -1,51 +1,40 @@
-body {background-color: #d3d4d6;
+body {background-color: #ffc04d;
       position: center;}
-
-nav {font-family: Helvetica;
-font-size: 20px;}
-
-a {text-decoration: none;
-margin-left: 200px;
-}
 
 #header { height: 50px;
 	display: inline-block;
 	position: static;
 	width: 800px;
-	background-color: #718568;
+	background-color: #ff701f;
 	margin-left: 200px;
 	margin-top: 5px;
-    border-radius: 10px;
 }
 
-li {list-style-type: none;}
-
 #buttons {float: left;
-    margin-left: 336px;
-    
+    margin-left: 10px;
+    background-color: #ffe23a;
     margin-top: 14px;
     font-family: Gotham;
     font-size: 20px;
     color: white;
     border-radius: 5px;
-    border-color: #f4fffe;
+    border-color: #62c434;
     border-spacing: 5px;
 } 
 
-#text {height: 100%;
+#text {height: 700px;
 	display: inline-block;
 	position: static;
 	width: 800px;
-	background-color: #f4fffe;
+	background-color: #cfe63f;
 	margin-left: 200px;
 	margin-top: -10px;
 }
 
 .week{font-family: Helevitica;
-   font-size: 30px;
+   font-size: 24px;
    font-style: bold;
-   text-align: left;
-   margin-left: 30px;
+   text-align: center;
 }
 
 .questions {font-family: Courier;
@@ -53,13 +42,14 @@ li {list-style-type: none;}
     font-style: bold;
     float: left;
     margin-left: 30px;
-    color: #718568;
+    color: red;
 }
 
-img {float: left;
-  margin-left:230px;
-margin-top: 10px;}
+.answer{font-family: Courier;
+    font-size: 16px;
+    text-indent: 30px;
+    padding-left: 60px;
+    padding-right: 20px
+}
 
-h6 {margin-left: 40px}
 
-#webpics {margin-left: -85px;}
