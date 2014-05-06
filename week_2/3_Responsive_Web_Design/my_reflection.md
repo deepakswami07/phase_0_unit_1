@@ -1,7 +1,7 @@
 # U1.W2: Responsive Design Reflection
 
 * What is responsive web design? Do you like it?  Do you think it's a good practice? Why or why not?
-  Responsive web design is how web pages are desinged so they can be viewed on a computer, tablet devices and cell phones. Yes, since people expect to browse on their cell phones and tablets as they do on their desktop computers.  This forces web designers to design and build a web page that can be viewed on all devices.
+  Responsive web design is how web pages are desinged so they can be viewed on a computer, tablet devices, cell phones or other mobile devices. Yes, since people expect to browse on their cell phones and tablets as they do on their desktop computers.  This forces web designers to design and build a web page that can be viewed on all devices.
 
 
 * How do you think smartphones and tablets have changed web design? How do you think new technology will change web design in the future?
@@ -12,8 +12,8 @@ There are many ways visually impaired people use the web, those who are mildly i
 
 
 * What ideas and concepts have resonated with you when learning about the web and design? What seems stupid or doesn't make sense?
-As a motion desinger I have designed motion graphics for various media.  When I do my initial planning, my choice of type, color and other design elements has to be seen at different resolutions.  This was one of the most difficult task as a designer.  I understand the concept of responsive design, but I need to better understand how different elements of the web interact with each other.  As this understanding will help me with designing from wire framming satge to the final building of web pages.
+As a motion desinger I have designed motion graphics for various media.  When I do my initial planning, my choice of type, color and other design elements has to be seen at different resolutions.  This was one of the most difficult task as a designer.  I understand the concept of responsive design, but I need to better understand how different elements of the web interact with each other.  As this understanding will help me with wire framming and building of web pages.
 
 
 * Did you find any resources on your own that helped you better understand a topic? If so, please list it.
-The resources provided were more than enough.  I plan to go back read them over ot better understand them when I get a break.  
+The resources provided were more than enough.  I plan to go back read them over to better understand, when I get a break.  

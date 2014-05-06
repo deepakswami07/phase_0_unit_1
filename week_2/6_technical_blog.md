@@ -39,3 +39,4 @@ Link to your blog on the index of your site and sync your changes. Email the lin
 Share your blog on the google+ community under "Blog Posts!" Read others and see if you agree or disagree. Start a discussion on this topic.  Consider sharing your blog post on Reddit as well.
 
 
+≈
