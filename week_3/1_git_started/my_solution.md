@@ -3,7 +3,7 @@ Define the following commands and describe how they work/what they do.
 
 
 git add:
-This command adds files to the staging area or the place from where the file will be commited or saved.  It does not add new files it just bribgs new files to git's attention.  If you were working on a file and you are happy with the changes you made.  Then on the command line you will type in git add + name of the file.  This sets the file to staging area, from where you can commit it.  Another way to think of is, add takes a snap shot and commit saves the snap shot.
+This command adds files to the staging area or the place from where the file will be commited or saved.  It does not add new files it just brings new files to git's attention.  If you were working on a file and you are happy with the changes you made.  Then type git add + name of the file.  This sets the file to staging area, from where you can commit it.  Another way to think, add takes a snap shot and commit saves the snap shot.
 
 
 git branch:
@@ -32,10 +32,10 @@ git merge:
 This command merges two branches.  If you were working on a branch of the master, and have addded some changes to the branch, using this command "git merge + branch name will merge the changes to the master.
 
 git pull:
-Using this command you can get a folder or code form a remote location.  This command will bring in the new data and also merge the date to the branch you are calling from.
+Using this command you can get a folder or code form a remote location.This command will bring in the new data and also merge the date to the branch you are calling from.  Not a recommended method to sync.
 
 git push:
-After you have made all your commits and want to share it on remote repo, you will use a git push command.  The way the command needs to written is: git push origin master
+After you have made all your commits and want to share it on remote repo, you will use a git push command.  The way the command needs to written is: git push origin 
 
 git reset:
 This command lets you unstage a file that you have added.  For example if you have staged/added a file to be commited and want to remove it from the stage.
@@ -56,7 +56,7 @@ This command wil give you info of the files you have committed, files you have d
  $ git init
  $ git add file.name
  $ git commit -m "message"
- $ git push origin master
+ $ git push origin 
 
 - Fetch changes
   $ cd (folder name)
@@ -72,4 +72,4 @@ This command wil give you info of the files you have committed, files you have d
  $ git commit -m "message
 
 ## Release 5: Reflection
-I find using simple command on terminal so much easier than using the app.  First I was totally intimidated by all the commands, but once you use them and see the result, it is almost magical.  This was a very useful tutorial.
+I find using simple command on terminal so much easier than using the app.  First I was totally intimidated by all the commands, but once you use them and see the result, it is almost magical.  As this is the way web developers work, I plan to open files, edit files and do all things git using the terminal.
