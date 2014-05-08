@@ -39,6 +39,7 @@ After you have made all your commits and want to share it on remote repo, you wi
 
 git reset:
 This command lets you unstage a file that you have added.  For example if you have staged/added a file to be commited and want to remove it from the stage.
+git reset HEAD "name of the file"
 
 git rm:
 This command will remove and delete a file from the staging area and also from your drive.
@@ -71,4 +72,4 @@ This command wil give you info of the files you have committed, files you have d
  $ git commit -m "message
 
 ## Release 5: Reflection
-I find using simple command on terminal so much easier than using the app.  First I was totally intimidated by all the commands, but once you use them and see the result, it is almost magical.
+I find using simple command on terminal so much easier than using the app.  First I was totally intimidated by all the commands, but once you use them and see the result, it is almost magical.  This was a very useful tutorial.
