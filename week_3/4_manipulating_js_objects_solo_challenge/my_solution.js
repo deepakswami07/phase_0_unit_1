@@ -15,53 +15,73 @@ var terah = {
 /* Pseudocode Section - write pseudocode for each challenge below.
 1. Define a variable adam and use object literal notation to assign this variable 
    the value of a JavaScript Object object with no properties.
+    var adam =  {x: y}
 
 2. Give adam a name property with the value "Adam".
+    object (adam) = property(name): Adam(value)
 
 3. Add a spouse property to terah and assign it the value of adam.
+   object (terah) = property(spuse): adam(value)
 
 4. Change the value of the terah weight property to 125.
+   object(terah) = property(weight) : 125(value) 
 
 5. Remove the eyeColor property from terah.
+   object(terah) = color(property): delete
 
 6. Add a spouse property to adam and assign it the value of terah.
+    object(adam) = (property) spouse : value terah
 
 7. Add a children property to terah and and use object literal notation to assign 
    this variable the value of a JavaScript Object object with no properties
+    object(terah) = (property) var children = {} 
 
 8. Add a carson property to the value of the terah children property and assign it 
-  the value of an object with the property name with a value of "Carson".
+   the value of an object with the property name with a value of "Carson".
+   object(terah) = (property) var children = carson : "Carson"
 
 9. Add a carter property to the value of the terah children property and assign it 
    the value of an object with the property name with a value of "Carter".
+   object(terah) = (property) var children = carter : "Carter"
 
 10. Add a colton property to the value of the terah children property and assign it 
     the value of an object with the property name with a value of "Colton".
+    object(terah) = (property) var children = colton : "Colton"
 
 11. Add a children property to adam and assign it the value of terah children.
+    object(adam) = (property)children : terah var (children)
 
 
 */
 
 // __________________________________________
 // Write your code below.
+       var adam =  {};
 
-
-
-
-
-
-
-
+       adam.name = "Adam";
+              
+       terah.spouse = adam;
+       terah.weight = 125;
+       delete(terah).eyeColor;
+       adam.spouse = terah;
+       terah["children"] = {};
+       terah.children["carson"] = {};
+       terah.children.carson["name"] = "Carson";
+       terah.children["carter"] = {};
+       terah.children.carter["name"] = "Carter";
+       terah.children["colton"] = {};
+       terah.children.colton["name"] = "Colton";
+       adam.children = terah.children;
+         
 // __________________________________________
 // Reflection: Use the reflection guidelines
-// 
-// 
-// 
-// 
-// 
-// 
-
+// I had to start from the very beginning for this project.  I first did the tutorials on codeacademy to
+// bring me up to speed with the syntax and get an understanding of js. Initially I was trying to use
+// object constructor instead of object literal.  So I took a step back to understand the difference. 
+// Then I went back and started all over again. Once I hit the children part, I really got a hang of
+// it.  And realised how it builds up.  This is my first try at js, so it did take a longer than usual.
+// The error messages did help me lot. I need to dig into more tutorials, which I plan to do once I am
+// done with my blogs.  I did enjoy the end result, after all trials and errors.
 
 // __________________________________________
 // Driver Code:  Do not alter code below this line.
