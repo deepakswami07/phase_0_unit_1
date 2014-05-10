@@ -16,7 +16,7 @@ Watch [Shereef's Fireside Chat](http://vimeo.com/85001014)
 Based on the video, what's your take on the DBC experience? What is your impression of DBC? How do you see yourself engaging with this type of culture?
 Have your expectations of DBC changed? If so, how? Are you excited to participate in this kind of learning environment? Does it make you nervous? 
 
-hen I was initially checking out different boot camps, I would come across graphs and charts whereby various boot camps would do a comparison of others around the country.  They would list the things you would learn, how proficient you would be after you complete their course and what a committed group of faculty worked at their boot camp.  It felt like they were selling a product.  On one such website, I read a blog where the person mentioned Dev Boot Camp in comparison.  This is how I discovered DBC.  So I checked the DBC website.
+When I was initially checking out different boot camps, I would come across graphs and charts whereby various boot camps would do a comparison of others around the country.  They would list the things you would learn, how proficient you would be after you complete their course and what a committed group of faculty worked at their boot camp.  It felt like they were selling a product.  On one such website, I read a blog where the person mentioned Dev Boot Camp in comparison.  This is how I discovered DBC.  So I checked the DBC website.
 
 After watching the opening video on DBC site, I was sold!  DBC had an educational philosophy that was at the core of the institution, learning coding was secondary.  This was something that was missing in most other boot camps.  Most of them were selling a product.
 
