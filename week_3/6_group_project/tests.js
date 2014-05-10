@@ -1,3 +1,30 @@
+var sum = function(array) {
+  var total = 0;
+  for(i = 0; i < array.length; i++) {
+    total += array[i];
+  }
+  return total;
+}
+
+// Mean of Array Elements
+var mean = function(array) {
+    var total = 0;
+    for(i=0; i< array.length; i++) {
+        total += array[i];
+    }
+    return (total / array.length);
+}
+
+// Median of Array Elements
+var median = function(array) {
+    if (array.length % 2 !== 0) {
+        var sortedArray = array.sort(function(a,b) {return b-a;}
+        var answer = sortedArray[(sortedArray.length - 1) / 2];
+    }
+    else {
+        var sortedArray = array.sort(function(a,b) {return b-a;});
+        answer = (sortedArray[sortedArray.length / 2] + sortedArray[sortedArray.length / 2 - 1]) / 2;
+    }
 // __________________________________________
 // Tests:  Do not alter code below this line.
 
