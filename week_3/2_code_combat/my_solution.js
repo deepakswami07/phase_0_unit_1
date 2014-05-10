@@ -174,7 +174,7 @@ this.moveXY(49, 29);
 this.attackXY(49, 9); 
 
 // Reflection:
-//Honestly, the first time I went on the site I had no idea of what I was supposed to
+//The first time I went on the site I had no idea of what I was supposed to
 //do. As it had to do with js, I did a little reading of the code syntax of js.  Then
 // I tried to figure out the interface.  Spending that extra time and getting comfortable with 
 // the interface and layout helped to solve the challenges easily later.  In the beginning,
@@ -182,7 +182,7 @@ this.attackXY(49, 9);
 //to be a rather inefficient way.  As I started to solve the levels, it got more interesting and 
 //then I began to make a connection with how the scripts were written and how it was being
 //applied.  Even though it was frustrating in the beginning, after doing this exercise and then
-//diving into js fundamentals made more sense to me.  I found the later ones more fun.
+//diving into js fundamentals made more sense to me.  I think it was fun.
 
 
 
