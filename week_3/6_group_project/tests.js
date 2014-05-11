@@ -1,33 +1,38 @@
-var sum = function(array) {
+//refacotored
+
+// Sum of Array Elements
+
+var sum = function(array){
   var total = 0;
-  for(i = 0; i < array.length; i++) {
-    total += array[i];
-  }
+  for(i = 0; i < array.length; i++) 
+  total += array[i];
   return total;
 }
 
 // Mean of Array Elements
-var mean = function(array) {
+var mean = function(array){
     var total = 0;
-    for(i=0; i< array.length; i++) {
-        total += array[i];
-    }
-    return (total / array.length);
+    for(i=0; i< array.length; i++)
+    (total += array[i])
+    return (total / array.length)
 }
 
 // Median of Array Elements
-var median = function(array) {
-    if (array.length % 2 !== 0) {
-        var sortedArray = array.sort(function(a,b) {return b-a;}
-        var answer = sortedArray[(sortedArray.length - 1) / 2];
+
+var median = function(array){
+    var sortedArray = array.sort(function(a,b) {return b-a;});
+
+    if (array.length % 2 !== 0){
+    var answer = sortedArray[(sortedArray.length - 1) / 2];
+
+    }else {
+    var answer = (sortedArray[sortedArray.length / 2] + sortedArray[sortedArray.length / 2 - 1]) / 2;
     }
-    else {
-        var sortedArray = array.sort(function(a,b) {return b-a;});
-        answer = (sortedArray[sortedArray.length / 2] + sortedArray[sortedArray.length / 2 - 1]) / 2;
-    }
+    return answer;
+}
+
 // __________________________________________
 // Tests:  Do not alter code below this line.
-
 
 oddLengthArray  = [1, 2, 3, 4, 5, 5, 7]
 evenLengthArray = [4, 4, 5, 5, 6, 6, 6, 7]
