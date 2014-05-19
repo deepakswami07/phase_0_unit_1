@@ -15,18 +15,110 @@ When you think of the times in your life where you’ve been the
 happiest, the proudest, or the most satisfied, which of the following
 values come to mind?
 
-Accomplishment, Achievement, Community, Compassion, Confidence,
-Courage, Creativity, Fairness, Having a Family, Friendship, Helping
-other people, Justice, Knowledge, Meaningful work, Nature, Peace,
-Physical challenge, Pleasure Romance and Wisdom.
+Accomplishment
+Accountability
+Achievement
+Activism
+Adventure
+Affection
+Ambition
+Autonomy
+Challenge
+Close relationships
+Commitment
+Community
+Compassion
+Competence
+Competition
+Confidence
+Conformity
+Control
+Coolness under fire
+Cooperation
+Courage
+Creativity
+Credibility
+Decisiveness
+Economic security
+Effectiveness
+Efficiency
+Enthusiasm
+Environmentalism
+Excellence
+Excitement
+Fairness
+Faith
+Fame
+Free time
+Freedom
+Friendships
+Growth
+Having a family
+Health
+Helping other people
+Helping society
+Honesty
+Hospitality
+Independence
+Influence
+Inner harmony
+Insight
+Inspiration
+Integrity
+Intellectual status
+Introspection
+Justice
+Knowledge
+Leadership
+Location
+Loyalty
+Meaningful work
+Mentorship
+Merit
+Money
+Movement
+Music
+Nature
+Openness
+Order
+Patriotism
+Peace
+Persistance
+Personal development
+Physical challenge
+Pleasure
+Power and authority
+Privacy
+Public service
+Purity
+Quality
+Recognition
+Reputation
+Responsibility
+Romance
+Security
+Self-knowledge
+Self-reliance
+Self-respect
+Serenity
+Sophistication
+Spirituality
+Stability
+Status
+Tranquility
+Truth
+Vibrancy
+Volunteering
+Wealth
+Will-power
+Wisdom
+[add any that I missed]
+
 
 
 ## Release 2:
 
 Pick one value and write a couple of sentences about why one of the values you chose is important to you.
-Acheivement is important to me when I can share the experience
-with my family and friends. Without that sharing, the experience
-feels pretty hollow
 
 
 
@@ -38,14 +130,12 @@ In general, I try to live up to these values:
 
 Disagree 1 ----- 2 ----- 3 ----- 4 ----- 5 Agree
 
-Between 3 to 4
-
 
 
 ## Release 4:
 
 What was the last topic that someone asked for your advice on?
-Whether to send theri son to s Duke Summer program
+
 
 ## Release 5: Update and Share
 Link to your blog on the index of your site and sync your changes. Then email the link to your accountability group.
